@@ -1,0 +1,152 @@
+{
+    "0": {
+        "scaffold_seq": "CTGGAAATGGATTCAACGCCGACC",
+        "optimized_tile_seq": "GACCTTTAACTAAGTTGCGCCTAG",
+        "original_dG": -33.410000000000004,
+        "tuned_dG": -17.73
+    },
+    "1": {
+        "scaffold_seq": "CGAGGAGAATTTCAGCACATCGCG",
+        "optimized_tile_seq": "GCTCGTCGTAAAGTCGTGTTACGC",
+        "original_dG": -33.720000000000006,
+        "tuned_dG": -17.979999999999997
+    },
+    "2": {
+        "scaffold_seq": "GATGTTGTAAACCCTCCGATATGA",
+        "optimized_tile_seq": "CTACAACATTTGCGAGGCAATACG",
+        "original_dG": -29.639999999999997,
+        "tuned_dG": -18.229999999999993
+    },
+    "3": {
+        "scaffold_seq": "ATGGGACATGCACCGGTCAGGGGC",
+        "optimized_tile_seq": "TACGCTGTACGTGGCCGATCGCCG",
+        "original_dG": -36.74000000000001,
+        "tuned_dG": -19.239999999999995
+    },
+    "4": {
+        "scaffold_seq": "GCAAAGCGTCCGCACATTGTTATG",
+        "optimized_tile_seq": "CGTTTCCCTGGCGTGTAAGAATAC",
+        "original_dG": -33.39,
+        "tuned_dG": -18.25
+    },
+    "5": {
+        "scaffold_seq": "TTCACCTTAGCCACTCGGCTTCCC",
+        "optimized_tile_seq": "AAGTGGTACCGTTCAGCCGAAGGG",
+        "original_dG": -34.230000000000004,
+        "tuned_dG": -17.28
+    },
+    "6": {
+        "scaffold_seq": "CAGGACTCACTCGGCGCGGGATCA",
+        "optimized_tile_seq": "GACCTGAATAAGCCTCGCCCTAGT",
+        "original_dG": -36.800000000000004,
+        "tuned_dG": -17.390000000000004
+    },
+    "7": {
+        "scaffold_seq": "AGGAGCGAGCTACATTCGTGGCAT",
+        "optimized_tile_seq": "TCCTCGCTCGAGGTAAGCAACATT",
+        "original_dG": -34.330000000000005,
+        "tuned_dG": -18.499999999999996
+    },
+    "8": {
+        "scaffold_seq": "TGCCGTTGGAATGAAGAAGGGCGC",
+        "optimized_tile_seq": "ACAGCCACTTTCCTTCTTCCCGCG",
+        "original_dG": -35.550000000000004,
+        "tuned_dG": -16.76
+    },
+    "9": {
+        "scaffold_seq": "CGGTGGACCCTCTGGGGCAGCAGA",
+        "optimized_tile_seq": "GCCACGCGGGCCACTCCGTCGTCT",
+        "original_dG": -37.230000000000004,
+        "tuned_dG": -18.310000000000002
+    },
+    "10": {
+        "scaffold_seq": "TTTCATCTTTCCTCAGTGGAGTAG",
+        "optimized_tile_seq": "AAAGTGGAGAGGGGTCACCTCATC",
+        "original_dG": -29.270000000000003,
+        "tuned_dG": -17.41
+    },
+    "11": {
+        "scaffold_seq": "TGGGCCTTTTGGGGGGTCCAGACG",
+        "optimized_tile_seq": "ATCAGGATAACCCCCCAGGACTGC",
+        "original_dG": -36.36,
+        "tuned_dG": -17.46
+    },
+    "12": {
+        "scaffold_seq": "CGAATCAGGCGAAGGGGTGCGCCA",
+        "optimized_tile_seq": "GCTTAGACCGCTTCCAAACGCAGG",
+        "original_dG": -37.56000000000001,
+        "tuned_dG": -17.379999999999995
+    },
+    "13": {
+        "scaffold_seq": "ATTGCAACGGGCTGGGCCCGAAAA",
+        "optimized_tile_seq": "CAATGTTGCCCGACCCCGCCTTTT",
+        "original_dG": -36.349999999999994,
+        "tuned_dG": -17.740000000000002
+    },
+    "14": {
+        "scaffold_seq": "TGCACCACCGGACGGTGAAGAGTG",
+        "optimized_tile_seq": "ACGTGATGGCCAGCTACTTCTCCC",
+        "original_dG": -35.85,
+        "tuned_dG": -16.849999999999998
+    },
+    "15": {
+        "scaffold_seq": "CGCGTCTTAAAAAGACTATCAGGT",
+        "optimized_tile_seq": "GCGCAGATTTTTTCTGACAGACCA",
+        "original_dG": -30.250000000000004,
+        "tuned_dG": -19.38
+    },
+    "16": {
+        "scaffold_seq": "GTCAGTTCCGCTTCGGATGTCTCA",
+        "optimized_tile_seq": "GATTCAAGCTGAAGCCTACAGAGT",
+        "original_dG": -33.45,
+        "tuned_dG": -17.91
+    },
+    "17": {
+        "scaffold_seq": "TACTTGGCCCGGGGACAGCTCAAG",
+        "optimized_tile_seq": "ATCAACCGGGCTCCTGTCGAAGTC",
+        "original_dG": -35.220000000000006,
+        "tuned_dG": -19.119999999999997
+    },
+    "18": {
+        "scaffold_seq": "GAAGATGAATCCTTTGCAGGCTAC",
+        "optimized_tile_seq": "CTTCTTCTTAGCAAACGTTCGATG",
+        "original_dG": -30.610000000000003,
+        "tuned_dG": -16.94
+    },
+    "19": {
+        "scaffold_seq": "ACAAAGGGTCCTCTATATGTAGTG",
+        "optimized_tile_seq": "TGTTTCCCAGCAGAAAGACATCAC",
+        "original_dG": -28.849999999999994,
+        "tuned_dG": -17.71
+    },
+    "20": {
+        "scaffold_seq": "GGCGGTACTTCGCACCGATTGGCT",
+        "optimized_tile_seq": "CCGTCATGAAACAGGGCTAACCGA",
+        "original_dG": -36.43,
+        "tuned_dG": -17.870000000000005
+    },
+    "21": {
+        "scaffold_seq": "GATTTGGCTTAACTTAGCTTTCCC",
+        "optimized_tile_seq": "CTTAACCGAATTGACTCTAAAGGG",
+        "original_dG": -29.650000000000002,
+        "tuned_dG": -17.57
+    },
+    "22": {
+        "scaffold_seq": "ATTTTGGTTCCATGCGGCAGGGGT",
+        "optimized_tile_seq": "GATAACCTAGGAGCGCCGTCCCCA",
+        "original_dG": -34.71,
+        "tuned_dG": -18.810000000000002
+    },
+    "23": {
+        "scaffold_seq": "GGTCAAGGGCAACGCCTCGGCGTT",
+        "optimized_tile_seq": "CCTCTTCCCGTAACCGAGCCGCAA",
+        "original_dG": -37.81,
+        "tuned_dG": -18.130000000000003
+    },
+    "24": {
+        "scaffold_seq": "ATCCCTCCGCAAAAAGACTCGAAA",
+        "optimized_tile_seq": "TACGGAGGGGTTTTTCTGAACTTT",
+        "original_dG": -32.21000000000001,
+        "tuned_dG": -16.09
+    }
+}

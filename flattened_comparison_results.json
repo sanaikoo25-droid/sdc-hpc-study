@@ -1,0 +1,26 @@
+{
+    "Raw (Unflattened)_300s": {
+        "yield": 25.0,
+        "mean_errors": 1.05
+    },
+    "Raw (Unflattened)_600s": {
+        "yield": 40.0,
+        "mean_errors": 0.9
+    },
+    "Raw (Unflattened)_1200s": {
+        "yield": 20.0,
+        "mean_errors": 1.15
+    },
+    "Optimized (Flattened)_300s": {
+        "yield": 30.0,
+        "mean_errors": 1.15
+    },
+    "Optimized (Flattened)_600s": {
+        "yield": 35.0,
+        "mean_errors": 1.0
+    },
+    "Optimized (Flattened)_1200s": {
+        "yield": 10.0,
+        "mean_errors": 1.3
+    }
+}

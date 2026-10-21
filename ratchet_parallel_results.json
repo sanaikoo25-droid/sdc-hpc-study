@@ -1,0 +1,26 @@
+{
+    "Raw M13_120s": {
+        "yield": 0.0,
+        "errors": 6.05
+    },
+    "Raw M13_300s": {
+        "yield": 0.0,
+        "errors": 5.9
+    },
+    "Raw M13_600s": {
+        "yield": 5.0,
+        "errors": 4.6
+    },
+    "Flattened_120s": {
+        "yield": 0.0,
+        "errors": 13.75
+    },
+    "Flattened_300s": {
+        "yield": 0.0,
+        "errors": 13.1
+    },
+    "Flattened_600s": {
+        "yield": 0.0,
+        "errors": 13.25
+    }
+}

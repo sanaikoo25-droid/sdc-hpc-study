@@ -1,0 +1,26 @@
+{
+    "linear_300s": {
+        "yield": 0.0,
+        "mean_errors": 8.2
+    },
+    "linear_600s": {
+        "yield": 0.0,
+        "mean_errors": 7.35
+    },
+    "linear_1200s": {
+        "yield": 0.0,
+        "mean_errors": 6.55
+    },
+    "selective_300s": {
+        "yield": 0.0,
+        "mean_errors": 8.8
+    },
+    "selective_600s": {
+        "yield": 0.0,
+        "mean_errors": 7.25
+    },
+    "selective_1200s": {
+        "yield": 0.0,
+        "mean_errors": 7.2
+    }
+}

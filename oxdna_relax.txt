@@ -1,0 +1,29 @@
+# oxDNA Energy Minimization Configuration
+sim_type = min
+backend = CPU
+
+# Structure files
+topology = sdc_4pos.top
+conf_file = sdc_4pos.dat
+lastconf_file = sdc_minimized.dat
+trajectory_file = sdc_min_traj.dat
+energy_file = sdc_min_energy.dat
+
+# Physical interaction model
+interaction_type = DNA2
+salt_concentration = 0.05
+T = 323.15 K
+steps = 20000
+dt = 0.001
+verlet_skin = 0.5
+restart_step_counter = 1
+time_scale = linear
+refresh_vel = 1
+
+# Minimization parameters
+min_steps = 10000
+min_max_displacement = 0.02
+
+# Interval and I/O parameters
+print_energy_every = 500
+print_conf_interval = 1000

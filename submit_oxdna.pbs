@@ -1,0 +1,16 @@
+#!/bin/bash
+#PBS -N sdc_oxdna
+#PBS -l select=1:ncpus=4
+#PBS -l walltime=02:00:00
+#PBS -q workq
+#PBS -j oe
+#PBS -V
+
+cd $PBS_O_WORKDIR
+
+source $HOME/miniconda3/bin/activate sdc_sim
+export PATH=$PWD/oxDNA/build/bin:$PATH
+
+echo "oxDNA Job started on $(hostname) at $(date)"
+oxDNA oxdna_sdc_input.txt > oxdna.log 2>&1
+echo "oxDNA Job completed at $(date)"

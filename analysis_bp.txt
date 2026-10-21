@@ -1,0 +1,9 @@
+trajectory_file = sdc_trajectory.dat
+topology = sdc_4pos.top
+output = bp_fraction.dat
+order_parameters = hb_bp.txt
+
+interaction_type = DNA2
+salt_concentration = 0.05
+T = 323.15 K
+verlet_skin = 0.5

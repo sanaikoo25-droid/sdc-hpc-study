@@ -1,0 +1,22 @@
+{
+    "1": {
+        "yield": 0.0,
+        "mean_errors": 15.8
+    },
+    "2": {
+        "yield": 0.0,
+        "mean_errors": 15.4
+    },
+    "3": {
+        "yield": 0.0,
+        "mean_errors": 16.0
+    },
+    "4": {
+        "yield": 0.0,
+        "mean_errors": 14.2
+    },
+    "5": {
+        "yield": 0.0,
+        "mean_errors": 15.8
+    }
+}

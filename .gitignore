@@ -1,0 +1,8 @@
+*.o*
+*.log
+sdc_trajectory.dat
+sdc_min_traj.dat
+oxDNA/build/
+*.pyc
+__pycache__/
+oxDNA/
