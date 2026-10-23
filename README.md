@@ -89,7 +89,7 @@ If you utilize the code, data, or structural models in this repository, please c
   year         = {2026},
   institution  = {Department of Chemistry, Indian Institute of Technology Kanpur},
   howpublished = {[https://github.com/sanaikoo25-droid/sdc-hpc-study](https://github.com/sanaikoo25-droid/sdc-hpc-study)},
-  note         = {Computational Biophysics Research Preprint}
+  doi         = {https://doi.org/10.26434/chemrxiv.15010917/v1}
 }
 
 
